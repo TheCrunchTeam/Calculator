@@ -13,6 +13,5 @@ def multiplicar(*args):
 	return result
 
 
-print(sumar(5,5))
 
 time.sleep(0.2)
